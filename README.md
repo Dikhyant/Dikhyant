@@ -1,6 +1,23 @@
 # 💫 About Me:
 Want FPS games ? Just tell me. I'll make it for ya.<br>Thinking about Hypercasual games ? You are at the right  profile.
 
+<svg width="52" height="64" viewBox="0 0 52 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="MUG">
+<g id="mug">
+<path id="Vector" d="M1.55994 40.03L24.6799 26.68V0L1.55994 13.34V40.03Z" fill="#67809E"/>
+<path id="Vector_2" d="M47.7999 40.03V13.34L24.6799 0L23.9999 26.29L47.7999 40.03Z" fill="#A7596A"/>
+<path id="Vector_3" d="M24.6799 0L1.55994 13.34L24.6799 26.68L47.7999 13.34L24.6799 0ZM8.32994 13.34L24.6799 3.91L40.9999 13.34L24.6799 22.75L8.32994 13.34Z" fill="#FACDD6"/>
+<path id="Vector_4" d="M24.6799 63.59V26.68L1.55988 13.34L0.879883 49.85L24.6799 63.59Z" fill="#DE6C84"/>
+<path id="Vector_5" d="M24.6799 63.2L47.7999 49.85V13.34L24.6799 26.68V63.2Z" fill="#7BA6D8"/>
+<g id="handle">
+<path id="Vector_6" d="M39.6999 24.12L34.0199 27.4L45.3799 33.95L51.0099 30.65L39.6999 24.12Z" fill="#FACDD6"/>
+<path id="Vector_7" d="M39.6999 37.22L34.0199 40.49L45.3799 47.05L51.0099 43.75L39.6999 37.22Z" fill="#FACDD6"/>
+<path id="Vector_8" d="M45.3799 53.61L51.0499 50.34L51.0099 30.65L45.3799 33.95V53.61Z" fill="#7BA6D8"/>
+<path id="Vector_9" d="M34.0199 33.95V27.4L45.3799 33.95V53.61L34.0199 47.06V40.51L39.6999 43.78V37.23L34.0199 33.95Z" fill="#DE6C84"/>
+</g>
+</g>
+</g>
+</svg>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dikhyantkrishnadalai/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dikhyantkrishnadalai5006) 
